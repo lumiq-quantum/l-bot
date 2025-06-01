@@ -1,0 +1,11 @@
+streamlit
+requests
+sseclient-py
+python-dotenv
+google-generativeai
+fastapi
+sqlalchemy
+uvicorn
+uuid
+psycopg2-binary
+python-multipart
